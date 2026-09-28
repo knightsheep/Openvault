@@ -1,0 +1,6 @@
+# 统一文本换行符，避免 Windows 环境下整篇文件被误判为修改
+* text=auto
+*.md text eol=lf
+*.txt text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf

@@ -25,4 +25,10 @@
 
 ## 许可证
 
-本仓库采用 [MIT License](LICENSE)。使用和转载请以 `LICENSE` 文件为准。
+本仓库内容按类型适用不同许可证：
+
+- 原创文章正文：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，转载和演绎须署名；
+- 代码示例与脚本：[MIT License](LICENSE)；
+- 附件与第三方材料：保留各自原有许可证，来源与授权在对应文章中记录，不因进入本仓库而自动获得本仓库许可证。
+
+使用和转载请以 `LICENSE` 文件及具体文章中的标注为准。

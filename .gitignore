@@ -20,10 +20,5 @@ Desktop.ini
 *.pem
 *.key
 
-# Obsidian local workspace state
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
-
-# Local-only staging; raw private content should preferably stay outside this repository
-00-Staging/
+# Obsidian local configuration and workspace state
+.obsidian/
