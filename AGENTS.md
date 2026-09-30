@@ -14,6 +14,12 @@
 - 主要阅读工具是 Obsidian，同时保证普通 Markdown 工具也能阅读。
 - 内容类型包括：技术说明与教程、故障排查与解决记录、软件或环境配置记录、随笔与公开观点、不涉及个人资产信息的经济与金融文章，以及后续其他适合公开发布的主题。
 
+## 写作工具
+
+- 创建或修改仓库内的 Obsidian 文档时，默认调用 `obsidian-markdown` skill（位于 `.claude/skills/obsidian-markdown/`），以生成合规的 Obsidian Markdown；
+- 除非用户明确说明只需一个纯 Markdown 文件，否则一律先调用该 skill；
+- 该 skill 提供 Obsidian 语法能力（callout、embed、property 等）；仓库的链接规范（默认相对 Markdown 链接）与 Frontmatter 规范优先于 skill 内的通用建议。
+
 ## 操作前检查
 
 - 开始任务前读取根目录 `AGENTS.md` 和 Git 状态。
