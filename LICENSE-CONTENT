@@ -1,0 +1,19 @@
+OpenVault 内容许可证（LICENSE-CONTENT）
+
+本文件规定 `openvault` 仓库中原创文章正文的授权方式。
+
+## 适用范围
+
+- 本仓库原创文章正文适用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)（Creative Commons Attribution 4.0 International），法律文本见 <https://creativecommons.org/licenses/by/4.0/legalcode>。
+- 转载和演绎须署名。署名对象为 `knightsheep`，推荐署名格式：`knightsheep · OpenVault · <原文链接>`。
+- 代码示例与脚本适用 MIT License，见 `LICENSE-CODE`。
+- 附件与第三方材料保留各自原有许可证，来源与授权在对应文章中记录；不因进入本仓库而自动获得本仓库许可证。
+
+## 说明
+
+CC BY 4.0 允许复制、分发、修改和演绎，条件包括：
+
+- 署名：标明作者与来源，提供许可证链接，并说明是否作出修改；
+- 不得使用技术措施限制他人行使本许可证授予的权利。
+
+完整条款以 CC BY 4.0 法律文本为准。

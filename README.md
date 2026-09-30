@@ -27,8 +27,8 @@
 
 本仓库内容按类型适用不同许可证：
 
-- 原创文章正文：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，转载和演绎须署名；
-- 代码示例与脚本：[MIT License](LICENSE)；
-- 附件与第三方材料：保留各自原有许可证，来源与授权在对应文章中记录，不因进入本仓库而自动获得本仓库许可证。
+- 原创文章正文：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，转载和演绎须署名，署名对象为 `knightsheep`，推荐署名格式 `knightsheep · OpenVault · <原文链接>`；
+- 代码示例与脚本：[MIT License](LICENSE-CODE)；
+- 附件与第三方材料：只有具有明确再分发授权的第三方材料才会复制进仓库，否则仅提供来源链接和必要引用；来源与授权在对应文章中记录，不因进入本仓库而自动获得本仓库许可证。
 
-使用和转载请以 `LICENSE` 文件及具体文章中的标注为准。
+使用和转载请以 `LICENSE-CONTENT` 与 `LICENSE-CODE` 文件及具体文章中的标注为准。

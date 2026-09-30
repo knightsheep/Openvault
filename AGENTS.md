@@ -105,6 +105,6 @@
 | `AGENTS.md` | AI 与自动化工具 | 规定操作边界、隐私要求、目录规则和修改流程（本文件） |
 | `STYLE-GUIDE.md` | 作者与 AI | 规定 Markdown、Frontmatter、标题、标签、链接和附件格式 |
 | `PUBLISHING.md` | 作者与 AI | 规定私人库内容进入公开库前的脱敏与发布流程 |
-| `LICENSE` | 所有访问者 | 规定内容和资源的授权方式 |
+| `LICENSE-CONTENT` 与 `LICENSE-CODE` | 所有访问者 | 规定原创正文（CC BY 4.0）与代码示例（MIT）的授权方式 |
 
 `README.md` 不承载详细的 AI 操作规则；`AGENTS.md` 是 AI 操作仓库时必须优先读取的根规则。
